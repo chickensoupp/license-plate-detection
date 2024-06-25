@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/license_plate/yolov5/dataset/images/train
+val: /content/drive/MyDrive/license_plate/yolov5/dataset/images/val
+
+nc: 1 # 類別數量
+names: ["license_plate"] # 類別名稱
